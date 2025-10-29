@@ -99,7 +99,7 @@ const Footer = () => {
             <p className="text-gray-600 text-sm mb-2">
               Have questions? We're here to help!
             </p>
-            <a href="mailto:harshvyas98397916@gmail.com" className="flex items-center text-blue-600 hover:text-blue-800">
+            <a href="mailto:arpit_2022bece083@nitsri.ac.in" className="flex items-center text-blue-600 hover:text-blue-800">
               <Mail size={16} className="mr-2" />
               arpit_2022bece08@nitsri.ac.in
             </a>
