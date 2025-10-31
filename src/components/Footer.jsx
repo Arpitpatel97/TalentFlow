@@ -21,10 +21,10 @@ const Footer = () => {
               Streamlining the hiring process with intelligent candidate tracking and assessment tools.
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com/harshvyas-22" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="text-gray-500 hover:text-gray-800">
+              <a href="https://github.com/arpitpatel97" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="text-gray-500 hover:text-gray-800">
                 <Github size={20} />
               </a>
-              <a href="https://www.linkedin.com/in/harsh-vyas-22abc/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-500 hover:text-gray-800">
+              <a href="https://www.linkedin.com/in/arpit-patel-61939b248/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-500 hover:text-gray-800">
                 <Linkedin size={20} />
               </a>
               <a href="mailto:harshvyas98397916@gmail.com" aria-label="Email" className="text-gray-500 hover:text-gray-800">
