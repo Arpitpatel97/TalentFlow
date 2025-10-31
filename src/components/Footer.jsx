@@ -27,7 +27,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/arpit-patel-61939b248/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-500 hover:text-gray-800">
                 <Linkedin size={20} />
               </a>
-              <a href="mailto:harshvyas98397916@gmail.com" aria-label="Email" className="text-gray-500 hover:text-gray-800">
+              <a href="mailto:arpit_2022bece083@nitsri.ac.in" aria-label="Email" className="text-gray-500 hover:text-gray-800">
                 <Mail size={20} />
               </a>
             </div>
